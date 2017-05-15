@@ -21,7 +21,7 @@
         
         echo "<div class='tabuada'>" .
              "<table border='1'>".
-             "  <caption>Tabuada do " . $i . " (x) </caption>" .
+             "  <caption>Tabuada x " . $i . "</caption>" .
              "  <thead>" .
              "  <tr>" .
              "    <th>Fórmula</th>" .
@@ -49,7 +49,7 @@
         
         echo "<div class='tabuada'>" .
              "<table border='1'>".
-             "  <caption>Tabuada do " . $i . " (/)</caption>" .
+             "  <caption>Tabuada / " . $i . "</caption>" .
              "  <thead>" .
              "  <tr>" .
              "    <th>Fórmula</th>" .
@@ -82,7 +82,7 @@
         
         echo "<div class='tabuada'>" .
              "<table border='1'>".
-             "  <caption>Tabuada do " . $i . " (-)</caption>" .
+             "  <caption>Tabuada - " . $i . "</caption>" .
              "  <thead>" .
              "  <tr>" .
              "    <th>Fórmula</th>" .
@@ -109,7 +109,7 @@
         
         echo "<div class='tabuada'>" .
              "<table border='1'>".
-             "  <caption>Tabuada do " . $i . " (+)</caption>" .
+             "  <caption>Tabuada + " . $i . "</caption>" .
              "  <thead>" .
              "  <tr>" .
              "    <th>Fórmula</th>" .
